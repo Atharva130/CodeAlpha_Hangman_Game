@@ -5,7 +5,7 @@ def load_words():
         with open("words.txt", "r") as f:
             words = f.read().splitlines()
     except FileNotFoundError:
-        words = ['python', 'codealpha', 'internship', 'programming', 'project']
+        words = ['apple','light','python','hangman','challenge','programming','computer','science','developer','algorithm']
     return words
 
 def display_hangman(tries):
