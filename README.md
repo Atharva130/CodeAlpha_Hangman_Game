@@ -1,4 +1,4 @@
-# 🎯 CodeAlpha - Hangman Game
+# Hangman Game
 
 Hello there! 👋  
 This is my completed project for the **Hangman Game task** as part of the **CodeAlpha Python Programming Internship**. This classic game has been reimagined with visuals, input validation, and multiple play sessions — all built using Python fundamentals.
